@@ -35,6 +35,8 @@
         "openPageIn": "tab",
         "itemSize": "components--page-card-small",
         "showPropertyName": false,
+        "hideFileName": false,
+        "wrapFileName": true,
         "cover": {
           "type": "pageFirstImage",
           "value": "",
@@ -56,7 +58,8 @@
             "conditions": []
           }
         ]
-      }
+      },
+      "newPageNameFormat": ""
     }
   ],
   "rootComponentId": "2bd19d9b-6dd0-4cb0-8d08-47b508e34e52"
